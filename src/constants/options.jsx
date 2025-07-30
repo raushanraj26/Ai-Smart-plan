@@ -55,7 +55,7 @@ export const SelectBudgetOptions=[
   },
   {
      id:4,
-     title:'cheap',
+     title:'Hifi',
      desc:'stay conscious of your budget',
     icon:<ImAirplane />,
     
